@@ -120,7 +120,7 @@ export const languages: Record<string, Language> = {
   },
   blueprints: {
     name: "Blueprints",
-    iconName: "blueprints",
+    iconName: "ue5",
   },
   perforce: {
     name: "Perforce",
