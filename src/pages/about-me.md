@@ -35,15 +35,6 @@ Version Control 🤝: Implementing and maintaining a professional workflow with 
 
 Bringing Aeternum Grand Plaza to life not only validated my technical skills in Unreal Engine 5—it also solidified my work philosophy: I love problems, because the satisfaction of finding the right solution is unmatched.
 
-## Exploring Crowdfunding 💡
-## My First Steps in TEDx Events 🎤
-## We Organize Events 🚀
-## Creating Impact with Technology 🌍
-## Sharing Knowledge 🧠
-### Programming Mentoring 💻
-### Educational Content on YouTube 📹
-### Some of My Videos 🎬
-## What's Next... 🚀
 ## A Bit More About Me ☕
 
 Today, at 33 years old, my goal is clear: to keep building video games. I’m looking to join a team—ideally with an indie spirit—where communication is direct and I can collaborate closely with other passionate people to create unique experiences. I’m open to any challenge, as long as it involves programming and solving logical puzzles.
