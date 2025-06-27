@@ -138,6 +138,10 @@ export const languages: Record<string, Language> = {
     name: "PostgreSQL",
     iconName: "postgresql",
   },
+  unity: {
+    name: "Unity",
+    iconName: "unity",
+  },
 };
 
 export const getLanguage = (lang: string): Language => {
