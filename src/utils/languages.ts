@@ -110,6 +110,26 @@ export const languages: Record<string, Language> = {
     name: "Python",
     iconName: "python",
   },
+  ue5: {
+    name: "Unreal Engine 5",
+    iconName: "ue5",
+  },
+  cplusplus: {
+    name: "C++",
+    iconName: "cplusplus",
+  },
+  blueprints: {
+    name: "Blueprints",
+    iconName: "blueprints",
+  },
+  perforce: {
+    name: "Perforce",
+    iconName: "perforce",
+  },
+  steam: {
+    name: "API Steam",
+    iconName: "steam",
+  },
 };
 
 export const getLanguage = (lang: string): Language => {
