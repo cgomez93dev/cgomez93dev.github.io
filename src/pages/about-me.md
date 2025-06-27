@@ -11,7 +11,7 @@ image:
 ## My First "Insert Coin" 🕹️
 My passion for technology was sparked long before I wrote my first line of code. It was born in the vibrant chaos of arcade machines, with the sound of coins clinking and the melodies of games like Snow Bros. Even as a kid, I was filled with immense curiosity: I wanted to understand how those magical boxes could create entire worlds on a screen. Back then, unraveling that mystery felt completely out of reach.
 
-As the years went by, that fascination only grew. On an old computer running Windows ME, I discovered gems like Sokoban and Battle Chess. Each game was a new door to the imagination. My journey continued with the legends that defined my childhood: Prince of Persia (1989), the brilliance of Day of the Tentacle and Monkey Island, and eventually, the leap to 3D with the Nintendo 64. Playing Super Mario 64 and Zelda: Ocarina of Time wasn’t just entertainment—it was the moment I knew my future would be tied to creating video games 🎮.
+As the years went by, that fascination only grew. On an old computer running Windows 95, I discovered gems like Sokoban and Battle Chess. Each game was a new door to the imagination. My journey continued with the legends that defined my childhood: Prince of Persia (1989), the brilliance of Day of the Tentacle and Monkey Island, and eventually, the leap to 3D with the Nintendo 64. Playing Super Mario 64 and Zelda: Ocarina of Time wasn’t just entertainment—it was the moment I knew my future would be tied to creating video games 🎮.
 
 ## My Beginnings in Programming 🖥️
 
