@@ -130,6 +130,14 @@ export const languages: Record<string, Language> = {
     name: "API Steam",
     iconName: "steam",
   },
+  java: {
+    name: "Java",
+    iconName: "java",
+  },
+  postgresql: {
+    name: "PostgreSQL",
+    iconName: "postgresql",
+  },
 };
 
 export const getLanguage = (lang: string): Language => {
