@@ -3,7 +3,7 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'Aeternum Grand Plaza'
 pubDate: 2025-07-02
 description: 'Aeternum Grand Plaza is a project released on the Steam platform.'
-languages: ["ue5", "Blueprints", "cplusplus"]
+languages: ["ue5", "blueprints", "cplusplus", "steam", "perforce", "audacity", "notepad"]
 image:
   url: "/images/projects/aeternumgrandplaza.webp"
   alt: "Thumbnail of Aeternum Grand Plaza."
@@ -24,7 +24,10 @@ Developed with **Unreal Engine 5**, using tools such as Unreal Engine's built-in
 ## 💡 Technologies used
 
 - Unreal Engine 5
+- Blueprints
 - C++
+- Api Steam
+- Perforce
 - Audacity
 - Notepad++
 

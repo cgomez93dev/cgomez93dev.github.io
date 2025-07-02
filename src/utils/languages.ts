@@ -142,6 +142,14 @@ export const languages: Record<string, Language> = {
     name: "Unity",
     iconName: "unity",
   },
+  audacity: {
+    name: "Audacity",
+    iconName: "audacity",
+  },
+  notepadplusplus: {
+    name: "Notepad++",
+    iconName: "notepadplusplus",
+  },
 };
 
 export const getLanguage = (lang: string): Language => {
