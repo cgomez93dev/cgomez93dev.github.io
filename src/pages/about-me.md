@@ -4,7 +4,7 @@ title: "Cristian Gómez | My Journey in Game Developer 🚀"
 description: "Game developer, technology enthusiast, and event organizer. From my beginnings in development to creating communities and impactful projects, here I share my journey, experiences, and learnings. 🚀☕"
 author: "Cristian Gómez"
 image:
-  url: "/images/mainsample.webp"
+  url: "/images/imagedefault.webp"
   alt: "Photo of Cristian Gómez (BD Studio) for the blog"
 ---
 
