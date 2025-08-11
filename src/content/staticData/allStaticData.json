@@ -5,7 +5,7 @@
   "profileTitle": "Game Developer",
   "profileName": "Cristian Gómez",
   "github": "https://github.com/cgomez93dev",
-  "githubText": "Do you like this blog's design?",
+  "githubText": "Would you like to learn more about Aeternum Grand Plaza?",
   "portfolioImage": "/images/portfolio.webp",
   "email": "cgomez93.dev@gmail.com",
   "linkedin": "https://www.linkedin.com/in/cristian-gómez-8597bb153",
@@ -23,5 +23,6 @@
   "youtubeIconName": "youtube",
   "githubIconName": "github",
   "linkedinIconName": "linkedin",
-  "emailIconName": "envelope"
+  "emailIconName": "envelope",
+  "aeternumGrandPlaza": "https://cgomez93dev.github.io/portfolio/projects/aeternumgrandplaza/"
 }
