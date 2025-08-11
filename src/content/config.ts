@@ -18,6 +18,7 @@ const jsonDataCollection = defineCollection({
     instagram: z.string().url(),
     discord: z.string().url(),
     youtube: z.string().url(),
+    aeternumGrandPlaza: z.string().url(),
     alias: z.string(),
     contactSectionTitle: z.string(),
     contactSectionSubtitle: z.string(),
